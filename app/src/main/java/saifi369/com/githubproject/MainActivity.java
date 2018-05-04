@@ -26,4 +26,5 @@ public class MainActivity extends AppCompatActivity {
         TextView textView=findViewById(R.id.textView);
         textView.setText("Button is clicked");
     }
+    //file with branch merges
 }
