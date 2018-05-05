@@ -27,4 +27,7 @@ public class MainActivity extends AppCompatActivity {
         textView.setText("Button is clicked");
     }
     //file with branch merges
+
+    //these are changes made in a branch not master
+    //and that branch is added to master later on
 }
